@@ -7,4 +7,5 @@ Github Backup for Obsidian Client
 
 CTRL + P >> [git backup] in order to backup and save changes. 
 
+
 `CTRL + Shift + I` for web-inspector. 
