@@ -2,6 +2,10 @@
 #### Programming Languages
 - - - 
 
+#### Miscellaneous 
+--- 
+- [[Git]]
+
 
 ###### Link to Personal github
 - - -
